@@ -1,5 +1,5 @@
-# **AIFFEL_quest_cr**
--임시
+# **Aiffel_quest_cr**
+- 코어 과정 LMS 프로젝트로 만든 Repository
 ```
 AIFFEL_quest_cr
 ├── MainQuest
