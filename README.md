@@ -2,13 +2,13 @@
 ```
 AIFFEL_quest_cr
 ├── MainQuest
-│   ├── Quest01
+│   ├── Python
 │   │   ├── .ipynb
 │   │   └── README.md
 .		.
 .		.
 .		.
-│   └── Quest08
+│   └── Fluttet
 │       ├── .ipynb
 │       └── README.md
 .
