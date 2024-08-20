@@ -1,5 +1,5 @@
 # AIFFEL_quest_cr 
-```plaintext
+
 AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
