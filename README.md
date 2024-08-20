@@ -22,4 +22,3 @@ AIFFEL_quest_cr
     └── Ex07
         ├── .ipynb
         └── README.md
-```
