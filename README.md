@@ -29,9 +29,6 @@ AIFFEL_quest_cr
 │   └── Quest08
 │       ├── .ipynb
 │       └── README.md
-.
-.
-.
 ├── Python
 │   ├── Quest01
 │   │   ├── .ipynb
@@ -45,9 +42,6 @@ AIFFEL_quest_cr
 │   └── Quest04
 │       ├── .ipynb
 │       └── README.md
-.
-.
-.
 ├── Flutter
 │   ├── Quest11
 │   │   ├── .ipynb
@@ -64,9 +58,6 @@ AIFFEL_quest_cr
 │   └── Quest15
 │       ├── .ipynb
 │       └── README.md
-.
-.
-.
 └── Exploration
     ├── Quest22
     │   ├── .ipynb
