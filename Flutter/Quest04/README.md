@@ -29,7 +29,7 @@
 
 ## 프로토타이핑 (사용 툴 : Marvel)
 
-(https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/wrwq.gif)
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/wrwq.gif">
 
 
 
