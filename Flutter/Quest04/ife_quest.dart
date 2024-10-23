@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 
+// 앱 시작 
 void main() {
   runApp(MyApp());
 }
 
+// StatefulWidget 사용, 상태를 가짐
 class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
@@ -12,6 +14,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   bool _isDarkMode = false;
 
+  // 다크 모드 토글하는 함수
   void _toggleDarkMode(bool value) {
     setState(() {
       _isDarkMode = value;
@@ -21,12 +24,14 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      // 테마를 다크 모드 상태에 따라서 변경
       theme: _isDarkMode ? ThemeData.dark() : ThemeData.light(),
       home: MainPage(onToggleDarkMode: _toggleDarkMode, isDarkMode: _isDarkMode),
     );
   }
 }
 
+// 메인페이지 위젯 생성
 class MainPage extends StatefulWidget {
   final Function(bool) onToggleDarkMode;
   final bool isDarkMode;
@@ -97,7 +102,7 @@ class _MainPageState extends State<MainPage> {
     );
   }
 }
-
+// 홈 화면 위젯 
 class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -113,7 +118,7 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
-
+// 쇼핑 화면 위젯 
 class ShoppingScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -129,7 +134,7 @@ class ShoppingScreen extends StatelessWidget {
     );
   }
 }
-
+// 콘텐츠 화면 위젯 
 class ContentScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -138,7 +143,7 @@ class ContentScreen extends StatelessWidget {
     );
   }
 }
-
+// 클립 화면 위젯
 class ClipScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
