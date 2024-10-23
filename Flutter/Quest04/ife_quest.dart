@@ -65,7 +65,7 @@ class _MainPageState extends State<MainPage> {
         ),
         backgroundColor: Colors.green,
         actions: [
-          if (_selectedIndex == 1) // 홈 페이지일 때만 설정 아이콘 표시
+          if (_selectedIndex == 1) 
             IconButton(
               icon: Icon(Icons.settings),
               onPressed: () {
