@@ -36,16 +36,13 @@
 2. ife_quest.dart - 퀘스트 코드
 
 ## 구현영상 
-https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/c7f3c3ae-5a26-41ac-bfb0-9cf11bbd074b
 
-
-
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/325.gif">
 
 ## 참고 학습 자료 
 
+GPT
 
 ## 회고
-구현된 어플리케이션을 분석하고 재설계하는 부분이 재미있었습니다.     
-하지만 아직 플러터가 익숙하지 않아서 구현에 많은 어려움이 있었습니다.      
-더 많이 연습해서 최종 프로젝트인 아이펠톤에서는 나만의 AI 어플리케이션을 만들어낼겁니다.     
-화이팅!!!
+플러터로 구현할 때 한계를 직감하고 최대한 간단하게 줄이면서 학습했던 내용을 포함하도록 
+만들어 보았습니다. 그럼에도 막히는 부분이 많아 간단하게 만들기를 잘했던 것 같습니다.
