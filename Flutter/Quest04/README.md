@@ -18,20 +18,18 @@
 
 ## 앱 구조도
 
-![AI-UX-4-2-08 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/1a237b3c-912b-4763-9f13-22fe714549dc)
-
-
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/11.png">
 
 ## 앱 와이어프레임 (사용 툴 : Google Presentation)
 
-![AI-UX-4-2-11_j7hKLsb original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/538223ca-bc1c-4a0a-a4f6-17f27fc9a6f4)
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/21.png">
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/22.png">
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/23.png">
 
 
 ## 프로토타이핑 (사용 툴 : Marvel)
 
 <img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/wrwq.gif">
-
-
 
 ## 페이지 구현
 1. main.dart - 기본 상태
