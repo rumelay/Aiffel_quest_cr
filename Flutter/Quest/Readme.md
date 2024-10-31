@@ -13,13 +13,11 @@
 
 ## 앱 구조도
 
-<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/11.png">
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/First.png">
 
 ## 앱 와이어프레임 (사용 툴 : Google Presentation)
 
-<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/21.png">
-<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/22.png">
-<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/23.png">
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/Third.png">
 
 
 ## 프로토타이핑 (사용 툴 : Marvel)
@@ -28,16 +26,15 @@
 
 ## 페이지 구현
 1. main.dart - 기본 상태
-2. ife_quest.dart - 퀘스트 코드
+2. quest.dart - 퀘스트 코드
 
 ## 구현영상 
 
-<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/325.gif">
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/Quest(1).mp4">
 
 ## 참고 학습 자료 
 
 GPT
 
 ## 회고
-플러터로 구현할 때 한계를 직감하고 최대한 간단하게 줄이면서 학습했던 내용을 포함하도록 
-만들어 보았습니다. 그럼에도 막히는 부분이 많아 간단하게 만들기를 잘했던 것 같습니다.
+시간이 부족하여 대폭 줄여서 아쉽지만 처음 기획했던 기능은 구현되서 다행이였습니다.
