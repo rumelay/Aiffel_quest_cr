@@ -30,7 +30,7 @@
 
 ## 구현영상 
 
-<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/Quer.gif">
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/Que5r.gif">
 
 ## 참고 학습 자료 
 
