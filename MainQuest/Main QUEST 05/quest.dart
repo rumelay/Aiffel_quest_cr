@@ -742,3 +742,5 @@ class _BrightnessThresholdDialogState
     );
   }
 }
+
+<img src="https://github.com/rumelay/Aiffel_quest_cr/blob/main/assets/Que5r.gif">
